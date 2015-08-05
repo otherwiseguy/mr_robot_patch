@@ -35,6 +35,9 @@ The thread color choices were from the lsacord color chart as follows:
 * Light Grey (Sterling - 0124)
 * Yellow = (Yellow - 0600)
 
+The patch size, 4"x2.5" was chosen based on the embroidery shop's available
+blanks. It is a little too wide for its height.
+
 ![Actual patch compared to screencap](artwork/patch-capture-actual.gif?raw=true "Actual patch compared to screencap")
 
 ## Christian Slater's jacket
