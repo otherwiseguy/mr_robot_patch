@@ -43,3 +43,7 @@ I believe that the jacket worn by Christian Slater was a uniform jacket
 produced by Eastern Uniform, which does not appear to still be produced. It
 appears to be very similar in form to the Cintas Ike Jacket - 971 which is not
 available in brown or with a red lining.
+
+## Credits
+
+Original research and design work done by Sarah Schmitt and Terry Wilson (otherwiseguy).
