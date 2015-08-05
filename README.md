@@ -19,8 +19,10 @@ The "Computer Repair with a Smile" font appears to be the
 [Giuluio Bold](http://www.fontspring.com/fonts/fontsite/giulio) font which can
 be purchased quite reasonably.
 
-The robot image in the center was created by creating a grid over the screen
-capture of the patch and tracing over the robot in blocks.
+The robot image in the center was created by placing a grid over the screen
+capture of the patch and tracing over the robot in blocks, much like in
+[this tutorial](https://www.youtube.com/watch?v=Se7WVuyIEnU). The contiguous
+blocks of each color were then combined into a single path.
 
 ![Design compared to screencap](artwork/patch-capture-design.gif?raw=true "Design compared to screencap")
 
@@ -42,10 +44,11 @@ blanks. It is a little too wide for its height.
 
 ## Christian Slater's jacket
 
-I believe that the jacket worn by Christian Slater was a uniform jacket
-produced by Eastern Uniform, which does not appear to still be produced. It
-appears to be very similar in form to the Cintas Ike Jacket - 971 which is not
-available in brown or with a red lining.
+The jacket worn by Christian Slater appears to be an Eisenhower-style uniform
+jacket produced by Eastern Uniform in the 80s. Eastern Uniform no longer exists
+and the jacket does not appear to still be produced. The jacket appears to be
+very similar in form to the Cintas Ike Jacket - 971 which is not available in
+brown or with a red lining.
 
 ## Credits
 
