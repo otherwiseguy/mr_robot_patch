@@ -53,3 +53,11 @@ brown or with a red lining.
 ## Credits
 
 Original research and design work done by Sarah Schmitt and Terry Wilson (otherwiseguy).
+
+## LICENSE
+
+The [artwork/patch-design.svg](artwork/patch-design.svg) file, though created
+from a combination of public domain and properly licensed fonts and self-drawn
+graphics, is an attempt to recreate a prop from the Mr. Robot television show.
+This project is a work by fans, for fans, and is not intended to be used for
+commercial purposes.
