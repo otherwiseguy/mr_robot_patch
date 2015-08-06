@@ -44,6 +44,8 @@ blanks. It is a little too wide for its height.
 
 ## Christian Slater's jacket
 
+![Jacket](artwork/jacket.jpg?raw=true "Jacket with patch")
+
 The jacket worn by Christian Slater appears to be an Eisenhower-style uniform
 jacket produced by Eastern Uniform in the 80s. Eastern Uniform no longer exists
 and the jacket does not appear to still be produced. The jacket appears to be
