@@ -50,7 +50,7 @@ The jacket worn by Christian Slater appears to be an Eisenhower-style uniform
 jacket produced by Eastern Uniform in the 80s. Eastern Uniform no longer exists
 and the jacket does not appear to still be produced. The jacket appears to be
 very similar in form to the Cintas Ike Jacket - 971 which is not available in
-brown or with a red lining.
+brown or with a red lining.feel like you have the ;powers of elliot alderson ;)
 
 ## Credits
 
